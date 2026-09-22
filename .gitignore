@@ -1,0 +1,9 @@
+*.o
+*.d
+server
+client
+demo_sticky
+*.pcap
+.vscode/
+*~
+*.swp
